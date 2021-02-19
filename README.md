@@ -21,6 +21,6 @@ Do note that the script does not insert a `/` between `$SCHB` and the DOI link r
 
 IF YOU DON'T USE such systems and the script should go directly to `doi.org`, then please set `$SCHB = ""` (just the quotations marks, no space between them)!
 
-This option, although legally used inside Universities, labs, dormitories, can also be used illegally with some websites. *** The author(s) and publisher(s) of this script thereby exonerate themselves from any explicit or implicit illegal activities done with the help of this script, and as such the responsibilities lie on the shoulders of the end user. ***
+This option, although legally used inside Universities, labs, dormitories, can also be used illegally with some websites. ***The author(s) and publisher(s) of this script thereby exonerate themselves from any explicit or implicit illegal activities done with the help of this script, and as such the responsibilities lie on the shoulders of the end user.***
 
 This script uses the GNU GPL 3.0 license.
